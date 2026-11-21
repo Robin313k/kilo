@@ -1,0 +1,7 @@
+/*** info ***/
+
+This is a project to code the kilo code editor following this guide: https://viewsourcecode.org/snaptoken/kilo/
+
+Current Status (Tuesday, 19th of November, 2026 at 21:41): just finished section "Save to disk" of chapter 5 (a text editor)
+
+Next: Section "Dirty flag" of Chapter 5 (A text editor)
